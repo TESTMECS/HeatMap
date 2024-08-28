@@ -1,0 +1,19 @@
+body {
+  background-color: slategray;
+}
+.map {
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 0 0 10px black;
+}
+#tooltip {
+  background-color: white;
+  width: 200px;
+  height: 80px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 12px;
+  box-shadow: 0 0 10px black;
+}
